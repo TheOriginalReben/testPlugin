@@ -3,3 +3,5 @@ git commit -m "Comment" "commit the added file to repo"
 git push "push all changes to git repo"
 git pull "pull all changes to git repo"
 git clone "clone's repo"
+
+egit
