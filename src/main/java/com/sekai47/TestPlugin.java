@@ -16,6 +16,7 @@ public class TestPlugin extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new PlayerListener(), this);
         
         getLogger().info("TestPlugin has been enabled!");
+        //Hello
     }
 
     @Override
